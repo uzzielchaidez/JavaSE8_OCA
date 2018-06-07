@@ -1,0 +1,3 @@
+diagnostictest.Sub
+diagnostictest.Sup
+diagnostictest.Q46Program

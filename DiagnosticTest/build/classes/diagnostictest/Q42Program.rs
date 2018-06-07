@@ -1,0 +1,4 @@
+diagnostictest.Program
+diagnostictest.Q42Program
+diagnostictest.A
+diagnostictest.B

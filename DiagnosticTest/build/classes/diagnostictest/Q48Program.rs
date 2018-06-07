@@ -1,0 +1,4 @@
+diagnostictest.Q48Program
+diagnostictest.Walk
+diagnostictest.Animal
+diagnostictest.Run

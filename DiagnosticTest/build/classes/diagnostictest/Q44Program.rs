@@ -1,0 +1,4 @@
+diagnostictest.Program
+diagnostictest.Q44Program
+diagnostictest.Person
+diagnostictest.Manager

@@ -1,0 +1,3 @@
+diagnostictest.Capacitor
+diagnostictest.Pc
+diagnostictest.Q53Program
