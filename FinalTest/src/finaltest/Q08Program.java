@@ -5,17 +5,15 @@
  */
 package finaltest;
 
-/**
- *
- * @author christian.lopez
- */
-public class FinalTest {
+public class Q08Program {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+
+        int ints[] = get(-1);
+        System.out.println(ints.length);
     }
-    
+
+    public static int[] get(int x) {
+        return new int[x];
+    }
 }
